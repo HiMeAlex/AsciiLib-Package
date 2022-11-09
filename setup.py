@@ -7,6 +7,7 @@ with open('README.md') as fh:
 
 setup(
     name="python-AsciiLib",
+    url='https://github.com/HiMeAlex/AsciiLib-Package',
     version=VERSION,
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
